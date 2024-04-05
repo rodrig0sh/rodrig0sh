@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **new projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rodrig0sh](https://github.com/rodrig0sh)
+- 👨‍💻 All of my projects are available at **Github**
 
 - 📫 How to reach me **rouissh@gmail.com**
 
