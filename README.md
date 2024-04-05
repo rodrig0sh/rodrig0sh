@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 🤝 I’m looking for help with **new projects**
+- 🤝 I’m looking to help with **new projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rodrig0sh](https://github.com/rodrig0sh)
 
